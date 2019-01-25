@@ -1,7 +1,9 @@
 #include<conio.h>
 #include<stdio.h>
 void main()
-int a=3;
+int a;
+printf("enter the value of a");
+scanf("%d",&a);
 if(a>0)
 printf("positive");
 elseif(a<0)
