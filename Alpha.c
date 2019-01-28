@@ -1,10 +1,14 @@
 #include<stdio.h>
 #include<conio.h>
-vod main()
-char val;
-char s={a,b,c,...,z,A,B,C,...,Z};
-if(val==s)
+void main()
+char ch;
+if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 printf("alphabet");
 else 
 printf("not");
 getch();
+
+
+
+
+
