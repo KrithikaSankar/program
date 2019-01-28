@@ -3,7 +3,7 @@
 void main()
 int a,b,c
 int largest;
-if((a>c)&&(a>b)
+if((a>c)&&(a>b)\\krithika
 printf(" largest");
 elseif((b>a)&&(b>c));
 printf("b is largest");
