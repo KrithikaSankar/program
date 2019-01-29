@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 int y;
-printf("enter year");
+printf("enter year");\\krithikasankar
 scanf("%d",&y);
 if(y%4==0){
 if(y%100==0){
