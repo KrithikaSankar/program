@@ -1,11 +1,15 @@
-#include<conio.h>
 #include<stdio.h>
+#include<conio.h>
 void main(){
-int a=3;
-if(a>0){
-printf("the number is positive");}
-elseif(a<0){
-printf("the number is negative");}
-else{
-printf("zero");}
-getch();}
+int i,n;
+printf("enter the value of n");
+scanf("%d",&n);
+for(i=1;i<=n;i++){
+printf("hello world");
+  return 0;
+}}
+
+
+
+
+
