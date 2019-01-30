@@ -1,14 +1,23 @@
 #include<stdio.h>
 
 int main(void){
-int i,n,sum=0;
+int r,n,sum=0;
 printf("enter the value of n");//krithika
 scanf("%d",&n);
-for(i=0;i<=n;i++){
-sum=sum+i; 
+while(n>10)
+{
+r=n%10;
+sum=sum+r;
+n=n/10;
 printf("%d",sum);
-  return 0;
-}}
+}
+return 0;
+}
+
+
+
+ 
+
 
 
 
