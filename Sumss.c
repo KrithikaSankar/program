@@ -2,7 +2,7 @@
 
 int main(void){
 int i,n,sum=0;
-printf("enter the value of n");
+printf("enter the value of n");//krithika
 scanf("%d",&n);
 for(i=0;i<=n;i++){
 sum=sum+i; 
