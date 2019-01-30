@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main(){
+int main(void){
 int i,n;
 printf("enter the value of n");
 scanf("%d",&n);
