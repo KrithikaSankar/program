@@ -11,9 +11,9 @@ if(n%i==0)
 break; 
 } 
 if(i>n/2){ 
-printf("%d", Yes); }
+printf("%s", Yes); }
 else {
-printf("%d", No); 
+printf("%s", No); 
   return 0;
 }}}
 
