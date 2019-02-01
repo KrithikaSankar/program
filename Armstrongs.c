@@ -4,7 +4,7 @@ int main(void)
 { 
 int n, sum = 0, rem = 0, cube = 0, temp; 
 char Yes, No; 
-printf("%d", n); 
+printf("%d", n); //KRITHIKA
 scanf("%d", &n); 
 temp = n; 
 while(n != 0) 
