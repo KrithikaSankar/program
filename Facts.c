@@ -2,7 +2,7 @@
 int main(void) 
 { 
 int i, fact = 1, n; 
-printf("%d", n); 
+printf("%d", n); //KRITHIKA
 scanf("%d", &n); 
 if(n <= 0) 
 fact = 1; 
