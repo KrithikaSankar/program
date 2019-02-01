@@ -5,7 +5,7 @@ int main(void)
 int a, d, n, i, sum = 0; 
 printf("%d", n); 
 scanf("%d", &n); 
-printf("%d", a); 
+printf("%d", a); //krithika
 scanf("%d", &a); 
 printf("%d", d); 
 scanf("%d", &d); 
