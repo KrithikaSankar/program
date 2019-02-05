@@ -20,7 +20,7 @@ for(i=0;i<n;++i)
 	}}}
 	for(i=0;i<n;++i)
 	{
-		printf("%d\t",num[i]);
+		printf("%d",num[i]);
 	}
 
 	return 0;
