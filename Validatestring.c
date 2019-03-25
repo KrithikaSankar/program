@@ -8,7 +8,7 @@ if(a>='0'&&a<='9')
 	printf("yes");
 }
 else {
-	printf("no");
+	printf("No");
 }
 
 	return 0;
