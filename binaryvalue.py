@@ -1,3 +1,4 @@
+#krithika
 n=int(input())
 a=[]
 k=bin(2**n-1)[2::]
