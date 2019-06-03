@@ -1,3 +1,4 @@
+#krithika
 r,k=map(int,input().split())
 f=list(map(int,input().split()))
 li=[]
