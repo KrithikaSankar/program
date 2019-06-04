@@ -1,3 +1,4 @@
+#krithika
 a=int(input())
 i=0
 x=0
