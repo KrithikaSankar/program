@@ -1,3 +1,4 @@
+#krithika
 from itertools import permutations
 li=list(permutations(['d','h','o','n','i']))
 a=input()
